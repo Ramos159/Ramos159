@@ -1,6 +1,4 @@
-Current CS Student at CUNY Queens College   
-Currently working on a Discord bot and Web app  
-Interests in Data Science and Web/Mobile Development  
+You know the vibes 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
